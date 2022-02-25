@@ -1,0 +1,454 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Saint Peters general petition to our Saviour, for himself and his fellow sufferers</title>
+            <author>Rowland, John, 1606-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57743</idno>
+            <idno type="STC">Wing R2071</idno>
+            <idno type="STC">ESTC R20575</idno>
+            <idno type="EEBO-CITATION">12355352</idno>
+            <idno type="OCLC">ocm 12355352</idno>
+            <idno type="VID">60132</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57743)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60132)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 897:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Saint Peters general petition to our Saviour, for himself and his fellow sufferers</title>
+                  <author>Rowland, John, 1606-1660.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Peter Lillicrap,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Trinity College Library, University of Dublin.</note>
+                  <note>Dedicatory epistle signed by John Rowland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Matthew XIX, 27 --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60132:1"/>
+            <pb facs="tcp:60132:1" rendition="simple:additions"/>
+            <p>SAINT PETERS General Petition to our SAVIOUR, For Himſelf and his fellow Sufferers.</p>
+            <p>LONDON, Printed by <hi>Peter Lillierap</hi> in the year 1661.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:60132:2"/>
+            <pb facs="tcp:60132:2"/>
+            <head>To the KINGS Moſt Excellent Majeſty, CHARLES THE SECOND</head>
+            <head type="sub">By the Grace of God of Great <hi>Brittain, France</hi> and <hi>Ireland</hi> KING, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis Sermon I preſent your Majeſty with, was not intended by me for the Preſs, but for the Pulpit, where many Imperfections of it might have paſt with the time of its delivery</p>
+            <q>Sed eundum quà via patet.</q>
+            <p>Trees that grow amongſt Rocks, muſt be ſhrubs, becauſe they thruſt out their branches onely as the Rocks will give them leave.</p>
+            <q>
+               <g ref="char:V">Ʋ</g>t monſtrent ſe enecari.</q>
+            <p>I have been now above 30 years upon your pub<g ref="char:EOLhyphen"/>lick
+<pb facs="tcp:60132:3"/>ſervice, ſtanding by cuſtome upon your Cata<g ref="char:EOLhyphen"/>logue of preferments, and I hope I ſhall not ſtay till all be preferred, as the Countrey man did waiting to ſee the River run away that he might go over.</p>
+            <epigraph>
+               <q>
+                  <l>Ruſticus ex pectat dum defluat amnis at ille,</l>
+                  <l>Labitur atque labetur in omne volubilis aevum.</l>
+               </q>
+            </epigraph>
+            <closer>
+               <signed>Your Majeſties moſt humble and obedient Subject, <hi>JOHN ROWLAND</hi> Rector of <hi>Foots-Cray</hi> in <hi>Kent.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:60132:3"/>
+            <epigraph>
+               <q>
+                  <bibl>MATTH. 19.27.</bibl>
+                  <p>Then anſwered <hi>Peter</hi> and ſaid unto him, Behold, we have forſaken all and followed thee: What ſhall we have therefore?</p>
+               </q>
+            </epigraph>
+            <p>
+               <seg rend="decorInit">T</seg>He words are an Anſwer and a Queſtion.</p>
+            <p>The Anſwer, <hi>Behold, we have forſaken all, and followed thee.</hi>
+            </p>
+            <p>The Queſtion, <hi>What ſhall we have therefore?</hi>
+            </p>
+            <p>The Anſwer is the ground and Reaſon of his following Petition;</p>
+            <p>
+               <hi>Behold, We have forſaken all and followed Thee?</hi>
+            </p>
+            <p>The Queſtion is the Petition it ſelf: <hi>What ſhall we have therefore?</hi>
+            </p>
+            <p>The Text may be called <hi>St. Peter</hi> his General Petition to our Saviour for himſelf and his fellow ſufferers.</p>
+            <p>Wherein there are four things chiefly to be conſidered.</p>
+            <p>Firſt, That the Anſwer was made to Chriſt for ſomething he had ſaid before: <hi>Then anſwered Peter and ſaid unto him.</hi>
+            </p>
+            <p>Secondly, The Perſon that made the anſwer, and that was <hi>S. Peter; Then anſwered Peter and ſaid.</hi>
+            </p>
+            <p>Thirdly, The Anſwer it ſelf, which is the ground and Reaſon of his following Petition; <hi>Behold we have forſaken all and followed Thee?</hi>
+            </p>
+            <p>Laſtly, The Queſtion, which hath the nature of a Petiti<g ref="char:EOLhyphen"/>on, and ſeems to deſire a ſpeedy anſwer, becauſe they had forſaken all for his ſake: <hi>What ſhall we have therefore?</hi>
+            </p>
+            <p>Of theſe in their Order, And firſt that the anſwer was made to Chriſt for ſomething which he had ſaid before.</p>
+            <p>An anſwer cannot be well underſtood whether it be pertinent or not, unleſs we firſt know what was ſaid before to which the anſwer was made, wherefore we muſt have re<g ref="char:EOLhyphen"/>courſe to the occaſion contained in the precedent Hiſtory,
+<pb n="2" facs="tcp:60132:4"/>as it is recorded by <hi>S. Matthew,</hi> S. <hi>Mark,</hi> and S. <hi>Luke.</hi>
+            </p>
+            <p>
+               <hi>S. Matthew</hi> ſaith at the 16 verſ. of this 19 chap. that one came to Chriſt to know what he ſhould do that he might have eternal life, and at the 20. and 22. verſ. that he was a young man.</p>
+            <p>S. <hi>Luke</hi> at the 18 chap. 18. verſ. calls him a Ruler.</p>
+            <p>S. <hi>Mark</hi> 10. chap. 17. verſ. ſets down the manner of his comming, and his behaviour. That he came running very earneſtly: And delivered his Petition very humbly, for he kneeled, and the form of his Petition was very ceremoni<g ref="char:EOLhyphen"/>ous: for he ſaid, <hi>Good Maſter, what good thing ſhall I do that I may have eternal life,</hi> verſ. 16.</p>
+            <p>He was no Saduce, for he believed the immortality of the ſoul, and a reſurrection of the body to eternal life, which ſome of our new Lights have denied, and publiſhed in Print that the ſoul dieth with the body.</p>
+            <p>Nor was he that Lawyer we read of, <hi>Luke</hi> 10.25. who preferred the ſame Petition tempting Chriſt and ſaying, <hi>Maſter what ſhall I do to inherite eternall life?</hi>
+            </p>
+            <p>But he was in ſome points a Phariſee, becauſe he thought a man might keep the Law, and do ſome good thing where<g ref="char:EOLhyphen"/>by he might deſerve and obtain eternal life.</p>
+            <p>Our Saviour therefore oppoſeth an other queſtion to his and ſeems to correct the formality of his Petition v. 17. <hi>Why calleſt thou me good! there is none good but one, that is God.</hi> As if he had ſaid, a man cannot do any thing of himſelf that is good, by which he may merit eternal life, but when he hath done all the good he can, he muſt wholely caſt himſelf upon the mercies of God in Chriſt.</p>
+            <p>But our Saviour not ſtaying for his anſwer, prevents him by way of anticipation, becauſe he knew wherein the ſtrength of his confidence lay, namely, in the Covenant of Works, <hi>do this and live,</hi> and though he require Faith in all that will be ſaved, yet he brings this man to the Teſt of the Law, ſaying, <hi>If thou wilt enter into Life keep the Commande<g ref="char:EOLhyphen"/>ments,</hi> verſ. 17. He ſuppoſing becauſe of his political and external performances towards men, that none could poſe
+<pb n="3" facs="tcp:60132:4"/>him there, askes which of the Commandements? as if it were all one to him by which he ſhould be tried. Like a young Schollar who hath learned his Leſſon by wrote, and thinks he underſtands it all, when he knows not one word of it as he ſhould know.</p>
+            <p>Our Saviour therefore repeats the Commandments to him verſ. 18. <hi>Thou ſhalt do no murder, Thou ſhalt not commit adultery. Thou ſhalt not ſteal, Thou ſhalt not bear falſe witneſs, Honour thy Father and thy Mother.</hi> And laſtly he adds the complement of them all, <hi>Thou ſhalt love thy neighbour as thy ſelf.</hi>
+            </p>
+            <p>From hence ſome erroniouſly ſtrive to eſtabliſh the Doctrine of Works, or elſe they ſay the Law was given in vain.</p>
+            <p>But there are many good uſes of the Law, though we are not able to keep it.</p>
+            <p>Firſt, it ſerves to teach us what the will of God is.</p>
+            <p>Secondly, It is a glaſs to ſhew us our deformities, and ſo is our ſchool-maſter to bring us unto Chriſt.</p>
+            <p>Thirdly, To keep us under obedience, that we do not, as too many lately have done, abuſe our Chriſtian Liberty, and pretend our Faith when our works are abominable, to the publick ſcandal of our Chriſtian Profeſſion.</p>
+            <p>But the young man thought if this were all, to keep the Commandments, that were an eaſie matter, for he replied, <hi>all theſe have I kept from my youth, what lack I yet?</hi> But hence it is evident that he ſuppoſed there wanted ſomething, and that his civil performance of the Commandments, could not aſſure him of everlaſting life.</p>
+            <p>He had bent the Rule to the ſquare of his own actions, and thought they agreed very exactly: but our Saviour ſets the Rule right again us it ſhould be, and as he hath ex<g ref="char:EOLhyphen"/>pounded it, <hi>Matth.</hi> 5. where he ſhews that God requires both the outward and inward conformity of the whole man to the keeping of the law, and then he tries this young mans actions by the Rule, and there appears a vaſt differ<g ref="char:EOLhyphen"/>ence betwixt them.</p>
+            <pb n="4" facs="tcp:60132:5"/>
+            <p>Wherefore Jeſus ſaith unto him, as we find it <hi>Luke</hi> 18.22. ver: <hi>Yet lackeſt thou one thing, If thou wilt be perfect, go and ſell th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> th<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> ha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and give to the poor, and thou ſhalt have Treaſure in heaven, and take up thy Croſs,</hi> ſaith S. <hi>Mark, and come and follow me.</hi>
+            </p>
+            <p>Our Saviour was now come to the depth of the wound. <hi>But when the young man heard that ſaying, he went away ſorrow<g ref="char:EOLhyphen"/>full for he had great poſſeſſions,</hi> ver, 22.</p>
+            <p>Great poſſeſſions he might have, and yet not be very Rich, if they lye ſo far a ſunder that the charge of keeping them and the caſualties may oftimes amount to as much as the yearly Revenues come to, and as ſome ſay the King of <hi>Spains</hi> do. But <hi>S. Luke</hi> takes away the ſcruple, ſaying, <hi>he was very rich.</hi> A rare example indeed, for a young man, a Ruler, and a rich man, in the midſt of all the pleaſures of his youth, the great imployments of his Magiſtracy, and the abundance of his wealth, to lay all thoughts aſide, and to take care for eternall Life. His very external performances are worthy the imitation of the beſt men; for although civil honeſty cannot merite eternal life, yet it is very commendable, and acceptable to God, and is oftimes re<g ref="char:EOLhyphen"/>warded by him with temporal felicity. And <hi>S. Mark</hi> tells us that Chriſt loved him for it, and although he went a<g ref="char:EOLhyphen"/>way ſorrowfull at that time, it is to be preſumed that he came again ſome other time, when God gave him a more, through call, and never went away from him ſorrowing any more.</p>
+            <p>But for that time doubtleſs all that were then preſent, wondred to ſee him come ſo cheerfully, and then to de<g ref="char:EOLhyphen"/>part ſo ſad. It not being the cuſtome of our Saviour to ſend away any one ſad, from him who came to him in ſincerity: as Hiſtorians record of <hi>Titus.</hi> the ſon of <hi>Veſtatian</hi> who was therefore called <hi>Delitiae Mundi,</hi> becauſe he would ſuffer no man to depart grieved out of his pre<g ref="char:EOLhyphen"/>ſence: When this young man was gone, S, <hi>Mark</hi> ſaith, <hi>Jeſus, l<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oked round about him, and ſaid unto his Diſciples</hi> Mat. ver. 22. <hi>verily I ſay unto you that a rich man ſhall hardly enter into the
+<pb n="5" facs="tcp:60132:5"/>kingdome of heaven, and again I ſay unto you, that it is eaſier for a Cancel to go through the eye of a Needle than for a rich man to enter into the kingdome of God. When the Diſciples heard that, they were exceedingly amazed, ſaying who then can be ſaved?</hi> ver. 25.</p>
+            <p>But there are ſome men ſince who are little amazed at it, for they are ſo much taken with a Metaphor, that they will not believe our Saviour meant a Camel, but a Cabel, be<g ref="char:EOLhyphen"/>cauſe the Greek word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a Cabel, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> a Camel differ but one letter. So <hi>Theophylact</hi> and others that follow that expoſition. <hi>Atque id ſane magis quadrat ad fora<g ref="char:EOLhyphen"/>men acus</hi> ſaith <hi>Eraſmus,</hi> a Cable will better fit the eye of a Needle: and the impoſſibility is not ſo great to humane Reaſon. For a Cabel is twiſted together of many ſmall thread, and if it be untwiſted into ſmall threads again, thoſe ſmall threads may in time be paſt through a Needles eye. So rich men who oftimes twiſt themſelves together a great eſtate out of many poor men, eſtates: If God ſhall give them Grace to repent and to make reſtitution as <hi>Zacheus</hi> did, it is not impoſſible for them to be ſaved. But the <hi>Syri<g ref="char:EOLhyphen"/>an</hi> Interpreter expounds it to be a Camel, a living creature that our Saviour then ſhake of in the <hi>Syrian</hi> tongue, and ſo the impoſſibility ſeems the greater, yet he takes it off by adding; <hi>With men this is impoſſible, but with God all things are poſſible,</hi> ver. 2<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <p>Here <hi>S. Peter</hi> having found a fit opportunity to prefer his Petition ſteps in with his Anſwer,</p>
+            <p>Behold, <hi>we have forſaken all and followed thee? What ſhall we have therefore?</hi>
+            </p>
+            <p>So I come to the perſon that made the anſwer, <hi>S. Peter.</hi>
+            </p>
+            <p>
+               <hi>Then Peter anſwered and ſaid;</hi> There hath been a long and eager Conteſt between the Reformed Churches and the Church of <hi>Rome</hi> Concerning <hi>S. Peters</hi> Supremacy over the reſt of the Apoſtles; and ſome of the Reformed in heat of diſ<g ref="char:EOLhyphen"/>pute, to the undervaluing of this excellent Apoſtle, have beſpoted him with all thoſe faults they find of his Recorded in the new Teſtament. As that our Saviour rebuked him, ſaying, <hi>Get the behinde me Sathan, thou art an offence unto mee,
+<pb n="6" facs="tcp:60132:6"/>for thou ſavoureſt not the things that be of God, but thoſe that be of men. Mat.</hi> 16.</p>
+            <p>That he denyed and forſwore his Maſter <hi>Mat.</hi> 26.</p>
+            <p>That <hi>S. Paul</hi> withſtood him to the face, becauſe he was to be blamed. For he withdrew and ſeperated himſelf from the Gentiles, fearing them which were of the Circumeiſion, <hi>Gal.</hi> 2.</p>
+            <p>But theſe men conſider not, what he ſaid of himſelf to <hi>Cornelius,</hi> When he fell down at his feet and worſhipped him; <hi>Peter</hi> took him up ſaying, ſtand up <hi>I my ſelf am a man Acts</hi> 10.</p>
+            <p>As S. <hi>James</hi> ſpeaks of <hi>Elias James</hi> 5. <hi>Elias</hi> was a man ſub<g ref="char:EOLhyphen"/>ject to the like paſſions that we are.</p>
+            <p>The Reaſons for him are not ſo eaſily anſwered, for he is ſet firſt, and ſaid to be the firſt of the twelve Apoſtles <hi>Mat.</hi> 10.</p>
+            <p>Now the names of the twelve Apoſtles are theſe: the firſt <hi>Simon,</hi> which is called <hi>Peter,</hi> S. <hi>Peter</hi> is called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the firſt, but S. <hi>Andrew,</hi> the next, is not called <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> the ſecond, as if it were onely done for matter of order, nor yet was it by reaſon of his age, or becauſe he was firſt called, for S. <hi>Andrew</hi> firſt followed Chriſt, and is held by ſome to be the Elder brother from <hi>John</hi> 1.40 ver. And one of the two which heard <hi>John</hi> ſpeak was <hi>Andrew Simon Peters</hi> Brother; He firſt findes his own Brother <hi>Simon,</hi> and ſaith unto him, <hi>We have found the Meſſias,</hi> Which is being interpreted the Chriſt, <hi>and he brought him to Jeſus. And when Jeſus beheld him he ſaid thou art Simon the Son of Iona, thou ſhalt be called Cephal.</hi>
+            </p>
+            <p>He of all the 12 Apoſtles had his Name firſt changed, which is a univerſal obſervation, that God never changed any mans name but for ſome fingular end and excellency. <hi>So Abrams</hi> name was changed, <hi>Gen.</hi> 17. And the Reaſon is there given for it. <hi>Neither ſhall thy name any more be called A<g ref="char:EOLhyphen"/>bram but thy name ſhall be Abraham, for a Father of many Nations have I made thee. As for Sarai thy wife, thou ſhalt not call her name Sarai, but Sarah ſhall her name be, And ſhe ſhall be a mother of ma<g ref="char:EOLhyphen"/>ny Nations.</hi>
+            </p>
+            <p>And <hi>Gen.</hi> 32. <hi>Jacobs</hi> Name is changed: <hi>Thy Name ſhall no
+<pb n="7" facs="tcp:60132:6"/>more be called Jacob but Iſrael: For as a Prince haſt thou power with God and with men, and haſt prevailed.</hi>
+            </p>
+            <p>
+               <hi>So Simon</hi> he Surnamed <hi>Peter, Mark</hi> 3. and it is done by Chriſt with that Solemnity and exactneſs, that no Publick Notary could be more exact in a conveyance to be drawn by him.</p>
+            <p>For <hi>Mat.</hi> 16. when <hi>S. Peter</hi> made that noble conſeſſion in the name of all the reſt, For <hi>Simon Peter anſwered and ſaid, Thou art Chriſt the Son of the living God, Jeſus anſwered and ſaid unto him, Bleſſed art thou Simon Bar-Jona, and I ſay unto thee that thou art Peter.</hi> There is his own Name <hi>Simon,</hi> his Fa<g ref="char:EOLhyphen"/>thers Name <hi>Jena,</hi> and his Surname <hi>Peter.</hi>
+            </p>
+            <p>And though he ſurnamed <hi>James</hi> and <hi>John Boanerges</hi> the Sons of Thunder, <hi>Mark</hi> 3. yet <hi>Bellarmine</hi> obſerves that <hi>Simon</hi> was afterwards almoſt continually called <hi>Cephas</hi> or <hi>Peter,</hi> but <hi>James</hi> and <hi>John</hi> were never called <hi>Boanerges,</hi> but <hi>Iames</hi> and <hi>Iohn</hi> as they were before, as if it had been rather their Title or an addition then a Change of their Name.</p>
+            <p>Again <hi>I</hi> do not finde ten times in the Evangeliſts that our Saviour ſpake in the ſingular number to any of the reſt of the Apoſtles, or that any of them ſpake to him, and one of thoſe times was when <hi>Sim n Peter beckned to the Diſciple Whom Jeſus lived, that he ſhould ask him who it ſhould be of whom he ſpeak that ſhould betray him. Joh.</hi> 13. But uſually he ſpake in general to them all, and ſo they to him, As <hi>Mat.</hi> 13. His Diſciples came to him ſaying, declare unto us the Parable of the tares of the field. He anſwered and ſaid unto them ver. 37. And <hi>Mat.</hi> 14. <hi>His Diſciples came unto him ſaying this is a deſert place &amp;c. But Jeſus ſaid unto them ver</hi> 16.</p>
+            <p>Yet it is not likely that they all ſhake at once but rather that <hi>S. Peter</hi> comonly anſwered and ſpake for them all, be<g ref="char:EOLhyphen"/>cauſe we read ſometimes where his Name is conceald which is by ſome other Evangeliſt declared that it was <hi>S. Peter,</hi> if we ſhall compare <hi>John</hi> the 18. with <hi>Matthew</hi> 26. But as for S. <hi>Peter,</hi> our Saviour ſtill ſpeaks to him <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y Name, and hee onely makes the anſwer, and he ſpeaks to our Saviour, and that ſo frequently that it is moſt Remarkable, as <hi>Mat.</hi> 14.
+<pb n="8" facs="tcp:60132:7"/>
+               <hi>And Peter anſwered him and ſaid Lord if it be thou, bid me come unto thee on the Water.</hi> And, <hi>Mat.</hi> 16 And <hi>Simon Peter anſwered and ſaid, Thou art Chriſt the Son of the living God. And Jeſus anſwered and ſaid unto him ver.</hi> 17. <hi>And I ſay alſo unto thee ver.</hi> 18. <hi>And I will give unto thee the keyes of the Kingdome of Heaven, and whatſoever thou ſhalt binde on Earth ſhall be bound in Heaven, and whatſoever thou ſhalt looſe on earth ſhall be looſed in Heaven.</hi> So Chriſt in his Transfiguration: when he took with him <hi>Peter James</hi> and <hi>Iohn Mat.</hi> 17. <hi>Then anſwered Peter and ſaid unto Ieſus ver.</hi> 4. Again <hi>Mat.</hi> 18. <hi>Then came Peter to him and ſaid, Lord how oft ſhall my brother ſin againſt me, &amp; I forgive him. Jeſus ſaith unto him ver.</hi> 21. And <hi>Mat.</hi> 26. <hi>Peter anſwered and ſaid unto him, Though all men ſhall be offended becauſe of thee, Yet will I never be Offended. Ieſus anſwered and ſaid unto him, Verily I ſay vnto thee. ver.</hi> 34. <hi>Peter anſwered and ſaid unto him, Though I ſhould dye with thee. Yet will I not deny thee, ver.</hi> 35. And <hi>Iohn</hi> 21. Our Sa<g ref="char:EOLhyphen"/>viour after his Reſurrection ſpeaks thrice to <hi>St. Peter</hi> ſaying, <hi>Simon ſon of Ionas loveſt thou mee more then theſe, and Peter an<g ref="char:EOLhyphen"/>ſwered and ſaid Lord thou knoweſt that I love thee.</hi> And this is ſo frequent in all the four Evangeliſts that I have not time to repeat them all.</p>
+            <p>Add to this that his priviledges Recorded by them are for greater and more than any of the reſt had. For he is ſent to take the Fiſh to pay Pole mony for his Maſter and himſelf <hi>Mat.</hi> 17. Chriſt goes to his Houſe and cures his wifes mother of a feavour <hi>Mat.</hi> 8. Enters into his Ship to Preach, <hi>Luke.</hi> 5. prays for him in particular that his faith fail not, <hi>Lvke.</hi> 22. Waſheth his feet firſt, as it is probable, <hi>Iohn</hi> 13. Foreſheweth his death in ſpecial, <hi>Iohn</hi> 20. Apears firſt to him of the twelve after his Reſurrection, <hi>Luke.</hi> 24. <hi>The Lord is riſen indeed and hath appeared unto Simon.</hi>
+            </p>
+            <p>
+               <hi>That he was ſeen of Cephas then of the twelve</hi> 1. <hi>Cor.</hi> 15.</p>
+            <p>Again he wrought more memorable Acts and miracles than they all did. Hee walks upon the Waters to Chriſt. <hi>Mat</hi> 14. He paſſeth ſentence as Judge upon <hi>Ananias</hi> and <hi>Saphi<g ref="char:EOLhyphen"/>ra Acts</hi> 5. He preacheth firſt to the <hi>Iews</hi> when 3000 were converted by him at one Sermon <hi>Acts</hi> 2. He Preacheth firſt
+<pb n="9" facs="tcp:60132:7"/>to the <hi>Gentiles, Act.</hi> 10. His very ſhadow in paſſing by cured all that were ſick <hi>Acts</hi> 5. I cannot ſtay to run over all that might be ſaid in his behalf.</p>
+            <p>But I hope here not to be miſunderſtood as if <hi>I</hi> had left my Religion beyond the Seas. We all bleſſe God, who hath preſerved your Majeſty amongſt ſo many &amp; dangerous pro<g ref="char:EOLhyphen"/>vocations to for ſake it, to hold faſt to the Church of <hi>England</hi> as it was Eſtabliſhed and maintained by King <hi>Edward</hi> Queen <hi>Elizabeth,</hi> King <hi>James,</hi> And King <hi>Charles,</hi> Your Martyred Father, all of ever bleſſed Memory. And your Subjects that have not done the like, cannot ſay. <hi>Behold we have forſaken all and followed thee.</hi>
+            </p>
+            <p>As for S. <hi>Peters</hi> Supremacy over the reſt, were it granted that he was a Metropolitan amongſt the Apoſtles, yet the <hi>Minor Propoſition,</hi> But the Pope is <hi>S. Peters</hi> ſucceſſor will be hard to prove, becauſe it is not ſo cleer that S. <hi>Peter</hi> was at <hi>Rome,</hi> much leſs Biſhops there. And if the Pope did Succeed him Locally, it doth not follow that therfore hee doth ſuc<g ref="char:EOLhyphen"/>ceed him in his piety and Priviledges. But the concluſion is to large by odds for the Primiſes, that therefore the <hi>Pope</hi> is ſupreme to all Kings and Emperours in all cauſes Spiritu<g ref="char:EOLhyphen"/>all and Temporal <hi>S. Peter</hi> preach't the contrary 1 <hi>Epiſt. Peter</hi> 2. <hi>chap. ver.</hi> 13. <hi>Submit your ſelves to every ordinance of man, to the King as Supreme.</hi>
+            </p>
+            <p>But amongſt all the Arguments brought to prove <hi>S. Pe<g ref="char:EOLhyphen"/>ters</hi> ſupremacy <hi>I</hi> do not read this of my Text, which may be alleaged to confirm it as well as any of the Reſt. For it ſhewe in what great Authority he was about our Saviour, that the petition for them all muſt be prefered by him, and he doth it ſo vigorouſly and effectually that he deſerves to be ownd as the Chriſt amongſt them for it.</p>
+            <p>There are 5 Circuſtances very remarkable which he ob<g ref="char:EOLhyphen"/>ſerved in this preſenting of it.</p>
+            <p>Two are concealed in the Text,</p>
+            <p>Fuſt that he did it ſpontaneouſly, and of his own accord; we do not read that any of the Apoſtles did move or ſol<g ref="char:EOLhyphen"/>licite him to undertake it for them; but knowing their
+<pb n="10" facs="tcp:60132:8"/>ſufferings he goes about it of his own free will, Contrary to the courſe of the world, where men muſt be continually ſo<g ref="char:EOLhyphen"/>licited, though it be but for recovering what is a mans own, and the following of it is commonly ſo tedious and charge<g ref="char:EOLhyphen"/>able, that a man were better oft times leave it off then ſpend his mony and time about it.</p>
+            <p>Secondly, he doth it gratis and without reward, we do not find that he either asked or received any thing for his pains; He knew that they had forſaken all to follow Chriſt, and therefore it were not reaſonable to expect any thing from them. For if long Soliciting and money muſt do it, then they who never did forſake what they had were fitter to procure it.</p>
+            <p>To theſe two we may adde one more, that there is ſome probability that <hi>S. Peter</hi> was appointed by our Saviour to promote their common intereſt: or at leaſt received a hint from him when he ſhould do it, for our Saviour never left preſſing the Argument he was upon untill S. <hi>Peter</hi> took occaſion thence to prefer this Petition.</p>
+            <p>But there are three other Circumſtances expreſſed in the words, which are required in all that will promote a Petition to the beſt advantage.</p>
+            <p>Firſt, he takes his beſt opportunity for it, all times are not proper to exhibite Petitions for rewards.</p>
+            <p>
+               <hi>S. Peter</hi> therefore waited his fitteſt time, and when he had found it, <hi>Then Peter anſwered and ſaid unto him, Behold, we have forſaken all and followed thee, &amp;c.</hi>
+            </p>
+            <p>Secondly, he did it not coldly and jejunely, as the man<g ref="char:EOLhyphen"/>ner of moſt men is: not caring whether it ſpeed or not, ſo they may be well paid for it, in ſo much that one petition begets another, and mens buſineſs is never at an end. But S. <hi>Peter</hi> doth it affectionately, with an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Behold, I pray take notice of it: that wee have forſaken all and followed thee.</p>
+            <p>But ſome may ſay, what needs this Emphaſis and note of obſervation to our Saviour; for he knew their ſufferings before, and needs not that any Man ſhould Aske him. <hi>Iohn</hi> 16.</p>
+            <pb n="11" facs="tcp:60132:8"/>
+            <p>God indeed knows all our works and wants, Yet he com<g ref="char:EOLhyphen"/>mands us to pray unto him to help us. <hi>Call upon me in the time of Trouble and I will hear thee</hi> Pſal. 50. It is our duty to pray unto God for what we need, and our own wants call upon us for it. Great men will expect that inferiours ſhould make their Addreſſes unto them by way of petition; and we are al<g ref="char:EOLhyphen"/>ſo conſtrained to do it, to put them in minde of us. For though God needs no rememberancer, yet men do: And be they never ſo willing to help us, they may be ignorant or forgetfull of other mens wants, and it is requiſite that ſome body ſhould put them in minde. But becauſe we ſhall hardly finde any man like minded as <hi>S. Peter</hi> was who will do it for us upon ſuch eaſie conditions, it were very con<g ref="char:EOLhyphen"/>venient that ſome eminent ſufferour ſhould be appointed by them for ſuch a Publick concernment.</p>
+            <p>Laſtly, S. <hi>Peter</hi> doth it generally for them all, He doth not ſay, <hi>Behold, I have forſaken all and followed thee, But we have for<g ref="char:EOLhyphen"/>ſaken all and followed thee.</hi>
+            </p>
+            <p>Though he were the cheife and the cheifeſt ſufferer, yet doth he not put ſo much as one Grain to weigh down his own ſcale. And ſo I paſs from the Circumſtances to the An<g ref="char:EOLhyphen"/>ſwer which is the ground and reaſon of his following Peti<g ref="char:EOLhyphen"/>tion;</p>
+            <p>
+               <hi>Behold, we have forſaken all and followed thee.</hi>
+            </p>
+            <p>This anſwer hath two branches.</p>
+            <p>Firſt, <hi>Forſaken all.</hi>
+            </p>
+            <p>S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>condly, <hi>Followed thee.</hi> And theſe two are ſo united with the root and within themſelves that they cannot be ſepara<g ref="char:EOLhyphen"/>ted, faith and works muſt grow together, to forſake all, there is our faith, to follow thee, there is our works, and in vain do ſome men ſtrive to part them.</p>
+            <p>Yet an actual forſaking all, nor a locall following is not always here meant.</p>
+            <p>For a man may forſake all and not follow Chriſt, and he may follow Chriſt and yet not forſake all. Many may fol<g ref="char:EOLhyphen"/>low him locally who do not follow him cordially.</p>
+            <p>But to forſake all and not to follow Chriſt, is loſt labour,
+<pb n="12" facs="tcp:60132:9"/>and to follow Chriſt cordially and not to forſake all is im<g ref="char:EOLhyphen"/>poſſible <hi>whoſoever will come after me, let him deny himſelf, and take up his Croſs and follow me, Mark</hi> 8.34.</p>
+            <p>Had Chriſt had the young man <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, part of his poſſeſſions and follow him, it is likely he would have done it, for <hi>Ananias</hi> and <hi>Saphir<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> ſold their poſſeſſion, out they kept back part of the price, <hi>Acts</hi> 5 God will have all or none, not part to God, part to the world, part to the fleſh, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to the devil, like them who <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ay to all <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> We cannot <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erve two Maſters, <hi>We <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ſerve God and <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>, Matth.</hi> 6.24. The wiſeſt men of the Nation would if they could have <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er<g ref="char:EOLhyphen"/>ved King and Parliament, which is but one politick body, but it was not poſſible to be done, when the King had an Army in the field, and the King and Parliament had an Ar<g ref="char:EOLhyphen"/>my againſt him.</p>
+            <p>Again it muſt not be loft all, but left all, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>We have forſaken all.</hi>
+            </p>
+            <p>Many loſe all by plundring of ſouldiers, by ſhipwrack, or fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e or other cauſualties, who would not forſake any thing to follow Chriſt, they loſe it not for conſcience ſake. But in fork<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aking all their is a willingneſs to <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> with it. As S. <hi>Paul</hi> ſaith of himſelf <hi>Philip.</hi> 3. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, For <hi>whom I have ſuffered the loſs of all things. Wha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> things were gain to me theſe I counted loſs for Chriſt, yea doubtleſs and I count all things but loſs, for the Excellency of the knowledge of Chriſt Ieſus my Lord, for whom I have ſuffered the loſs of all things, and do count them but d<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>g that I may win Chriſt.</hi> And <hi>Heb.</hi> 11. wee read of the Saints not accepting deliverance. They would have accepted it, but they would not do it upon ſuch condi<g ref="char:EOLhyphen"/>tions as the Enemies of Chriſt put upon them. The<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a kinde of willin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unwillingneſs in it, as there was <hi>Acts.</hi> 27. When to ſave their lives they Caſt the Wheat into the Sea.</p>
+            <p>Here I might paſs particularly upon all the Apoſtles, and examine their loſes ſeverally what they had forſaken and how long, and how far, they followed him, becauſe <hi>S. Peter</hi> layes it down as an argument, and ground of a
+<pb n="13" facs="tcp:60132:9"/>Reward. S. <hi>Matthew</hi> he forſook his place in the Cuſtome houſe, <hi>Math.</hi> 9. <hi>S. Peter</hi> and the reſt forſook their Ships and Nets, <hi>Matth</hi> 4. <hi>and they followed him from Jeruſalem to Gallilee and other parts,</hi> but I ſhould be too tedious.</p>
+            <p>For theſe two Branches <hi>Forſaken all, and Followed thee,</hi> may be varied many wayes</p>
+            <p>Some forſake all and do not follow Chriſt, but their own Fancies, as <hi>Crates</hi> the <hi>Theban</hi> threw all his Goods in<g ref="char:EOLhyphen"/>to the Sea, becauſe he would not be troubled with them.</p>
+            <p>So the Anabaptiſts and Quakers and the Phanatick Crew, many of them were content to forſake all they had that they might enjoy there own fond Opinions; dangerous per<g ref="char:EOLhyphen"/>ſons, yet men that deſerve to be pittied for their folly, if they would but keep within the compaſs of the Laws.</p>
+            <p>Others there are that follow Chriſt, and yet forſake no<g ref="char:EOLhyphen"/>thing: <hi>So Iudas</hi> followed him as if he had forſaken all, when he could have found no place where he could have gain'd more; yet he followed him onely to betray him and thoſe that did follow him truly, and to drive them from him; ſome will neither forſake any thing for Chriſt nor yet follow him theſe are Neuters, neither hot nor cold, who care not what becomes of all ſo they may keep what they have, ſome for<g ref="char:EOLhyphen"/>ſake nothing nor follow Chriſt, but openly follow his ene<g ref="char:EOLhyphen"/>mies; yet theſe are not ſo dangerous as thoſe that ſeemed to follow him and kept correſpondence with his Enemies.</p>
+            <p>But muſt all that follow Chriſt truly, actually forſake all that they have?</p>
+            <p>I marvel why <hi>Beza</hi> ſaith that the Apoſtles ſo left their ſhips that they never afterwards returned to Fiſhing; for <hi>Scultelus</hi> obſerves, that the ſame word is uſed 1 <hi>Sam.</hi> 17; when <hi>David</hi> left his Fathers ſheep with a keeper untill he had fought with <hi>Goliah,</hi> but he returned to them after<g ref="char:EOLhyphen"/>wards.</p>
+            <p>Chriſt doth not require of all men the ſame conditions he propounded to the young man: ſo ſome he ſends home to their houſes to take care of their Families, where they might live there with a ſafe conſcience, as wee read
+<pb n="15" facs="tcp:60132:10"/>
+               <hi>Mark.</hi> 8.26. Nor did the Apoſtles forſake all, but ſometimes they returned to their Veſſels and went a fiſhing. <hi>John</hi> 21.3. <hi>verſ.</hi>
+            </p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> fignifies not to loſe all, but to abate the love to all, as it is uſed <hi>Rev.</hi> 2.4. The Church of <hi>Rome</hi> hath her Votaries who take upon them a vow of poverty, and they ſay they forſake all to follow Chriſt. But <hi>Charles</hi> now Duke of <hi>Lorraine,</hi> as I have been credibly informed, when ſome of his ſouldiers had plundred a rich Monaſtery, and the Friers complained to him, hopeing to finde repara<g ref="char:EOLhyphen"/>tion, he deſired to know of them, which went eaſieſt to heaven, the Rich or the poor! They replied, Doubtleſs the poor; then ſaith he, <hi>I</hi> have ſent more to heaven then you all; for I have made many poor, and <hi>I</hi> mean to make you all ſo before I have done.</p>
+            <p>Now though our Saviour in his ſpeech to his diſciples before my Text, did ſhew the great danger of Riches, yet he expounds his meaning, <hi>Mark.</hi> 10.24. it is onely ſo for thoſe that do put their truſt in Riches.</p>
+            <p>For we read of many Rich Kings and Princes, as <hi>David, Solomon, Hezekiah,</hi> which have been great Saints; as alſo of <hi>Abraham, Iſaak,</hi> and <hi>Jacob, Iob, Zachary,</hi> and others very Rich men; and Chriſt tells us <hi>Matth</hi> 8. ſpeaking of the Rich <hi>Cen<g ref="char:EOLhyphen"/>turion, That many ſhall come from the Eaſt and from the Weſt, and ſhall fit down with Abraham, Iſaak, and Iacob, in the Kingdome of Heaven;</hi> alwaies provided that they be willing to forſake all as <hi>Abraham</hi> was, who when he was called to go out obeyed, <hi>&amp; he went out not knowing whether he went Heb,</hi> 1.1. But if ſuch rich men live in ſuch a happy age of the Church where no per<g ref="char:EOLhyphen"/>ſecution drives them to it, yet they may ſay, <hi>Behold, we have forſaken all and followed thee.</hi>
+            </p>
+            <p>By forſaking all, is not ſo much meant the forſaking of our poſſeſſions if we can hold them with a ſafe conſcience, as the forſaking of our ſins.</p>
+            <p>Many during the late troubles, forſook their friends and Eſtates to preſerve a good conſcience, who yet did not for<g ref="char:EOLhyphen"/>ſake their curſing and ſwearing, and ſome other groſs ſins, which
+<pb n="14" facs="tcp:60132:10"/>might caſt a cloud over the ſuceeſs, but yet their Adver<g ref="char:EOLhyphen"/>ſaries who forced them out of their eſtates by preſſing ſtrange Oaths and Engagments upon them, by plundering, ſeque<g ref="char:EOLhyphen"/>ſtring, and Impriſoning them, were not free from the ſame vices; yet they will commonly be the men who ſhall firſt come upon change of times, when they have only fallen out in parting ſtakes, and cry with open mouth, <hi>Behold, we have forſaken all and followed thee, What ſhall we have therefore?</hi> Men that can ſail with any wind; a true Hieroglyphick of of the Netherlands.</p>
+            <p>And theſe will oftimes outvye the reſt, as <hi>Mercury</hi> out acted <hi>Socio</hi> in <hi>Amphitruo,</hi> untill ſuch time as the Play was ended, and his Vizard and diſguiſe was taken off.</p>
+            <q>
+               <l>Sed poſtquam fictas incluſit Pagina partes,</l>
+               <l>Vera redit facies, diſſimulata perit.</l>
+            </q>
+            <p>Of ſuch our Saviour foretold, <hi>Matth.</hi> 7. <hi>Many will ſay to me in that day, Lord, Lord, have not we propheſied in thy Name, and in thy name caſt out devils, and in thy name done many won<g ref="char:EOLhyphen"/>derful things? and then will I profeſs unto them I never knew you? depar from me ye that work iniquity;</hi>
+            </p>
+            <p>We acknowledge with everlaſting thankfulneſs, and to One above all the reſt, that there are many noble <hi>Huſhais</hi> that can be of <hi>Abſaloms</hi> Counſel, and yet do the greateſt ſervice to King <hi>David;</hi> and ſuch were ſome of thoſe by whoſe vertues and Indeavours next under God and your Majeſty, we injoy our preſent happineſs. Theſe have great Reaſon to ſay, <hi>We have forſaken all and followed thee; What ſhall we have therefore?</hi>
+            </p>
+            <p>And it is for their ſakes that your gracious <hi>Act of In<g ref="char:EOLhyphen"/>dempnity</hi> hath made us all equal in your future favours; and it will not be well-conſtroed by any of our reconciled friends, who ſtood in need of it, to be a title to them, or a bar to us.</p>
+            <p>So <hi>I</hi> come to the Queſtion, which is the Petition it ſelf. <hi>What ſhall we have therefore?</hi>
+            </p>
+            <p>A very rugged and blunt Petition at the firſt hearing, and will be thought by ſome, better becoming a ſouldier than
+<pb n="16" facs="tcp:60132:11"/>an Apoſtle, becauſe Souldiers bred in the Camp, are not uſually well verſt in the ſmooth language of the Court.</p>
+            <p>It is true, of all the Apoſtles S. <hi>Peter</hi> was moſt the ſouldier, for he ware a ſword, <hi>John</hi> 18. and when his Maſter was be<g ref="char:EOLhyphen"/>trayed and taken, he drew it, <hi>and ſmote the high Prieſts ſervant and cut off his right ear;</hi> and had not our Saviour menaced him, and commanded him to put it up again, becauſe he drew it againſt Authority, he might for ought we know, have cut out his brains with it, as well as he cut off his ear, though that were the Sword which <hi>I</hi> ſaw at <hi>Paris</hi> above 30. years ſince, which the Friers maintain to be his, which was little above a foot long, if it were ſo much.</p>
+            <p>And now I am thus far upon my way, it will be no digreſ<g ref="char:EOLhyphen"/>ſion to go one ſtep further to encounter our modern Chi<g ref="char:EOLhyphen"/>liaſts, ſuch as call themſelves <hi>Fifth Monarchy-men,</hi> who would perſwade us, that all the Apoſtles were of their Creed, ready to fight for Chriſts temporal Monarchy; and then their gloſs upon S. <hi>Peters</hi> Petition here will be, that he petitioned onely for ſome great places at Gourt, when Chriſt ſhould raign upon earth; which were a fowl errour in our Apoſtle, when as the young man had ſo lately petition<g ref="char:EOLhyphen"/>ed our Saviour in his hearing for eternal life.</p>
+            <p>But it is apparent by our Saviours. Anſwer to S. <hi>Peters</hi> Petition, that <hi>S. Peter</hi> petitioned onely for the ſame thing the young man did; <hi>Even everlaſting life,</hi> becauſe they had for<g ref="char:EOLhyphen"/>ſaken all to follow him, which the young man refuſed to do when he might enjoy it.</p>
+            <p>I deny not, but that ſome of the Apoſtles might ſome<g ref="char:EOLhyphen"/>times have had an eye to Chriſts temporal kingdome, be<g ref="char:EOLhyphen"/>cauſe their queſtion to our Saviour immediately before his aſcenſion into heaven ſeems to look that way; <hi>Lord, wilt thou at this time reſtore the kingdome again unto Iſrael? Acts</hi> 1. But they preacht no ſuch Doctrine after his Aſcention into heaven; when the holy Ghoſt had once deſcended upon them in the feaſt of <hi>Pentecoſt.</hi>
+            </p>
+            <p>Nor did our Saviour teach them any ſuch leſſon when he was converſant among them, but the contrary in his an<g ref="char:EOLhyphen"/>ſwer
+<pb n="17" facs="tcp:60132:11"/>to <hi>Pilate, John</hi> 18. <hi>Jeſus anſwered, My kingdom is not of this world. If my kingdome were of this world, then would my ſer<g ref="char:EOLhyphen"/>vants fight for me that I ſhould not be delivered to the Jews; but now my kingdome is not from hence.</hi>
+            </p>
+            <p>In which Words are two Enthymems.</p>
+            <p>Firſt, Chriſts kingdom is not of this world.</p>
+            <p>Therefore may not his ſervants fight for it.</p>
+            <p>Secondly, Temporal Kings have kingdoms of this world. Therefore it is lawful for their ſubjects to fight for them.</p>
+            <p>If then the <hi>Fifth Monarchy-men</hi> will fight for Chriſts tem<g ref="char:EOLhyphen"/>poral kingdome againſt his command, all ſubjects are au<g ref="char:EOLhyphen"/>thorized by him to fight againſt them, in defence of thoſe Kings and Princes whoſe ſubjects they are.</p>
+            <p>As for the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> they inſiſt upon, <hi>But now my kingdom is not from hence,</hi> it is but an ill conſequence they would in<g ref="char:EOLhyphen"/>fer from it, that therefore it ſhall be hereafter.</p>
+            <p>For <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> now, is not onely an Adverb of time there, but a ſtronger confirmation of what he had ſaid before: namely, <hi>My Kingdome is not of this world.</hi>
+            </p>
+            <p>The Papiſts would inforce the like concluſion to main<g ref="char:EOLhyphen"/>tain their Purgatory and forgiveneſs of ſins after this Life, becauſe our Saviour ſaid <hi>Matth.</hi> 12. <hi>Whoſoever ſpeaketh a<g ref="char:EOLhyphen"/>againſt the holy Ghoſt, it ſhall not be forgiven him, neither in this world, nor in the world to come</hi> Therefore, ſay they, ſome ſins ſhall be forgiven in the world to come: whereas they ſhould conclude directly, Therefore the ſin againſt the holy Ghoſt ſhall never be forgiven. Chriſt never promiſed his diſci<g ref="char:EOLhyphen"/>ples any earthly kingdome. But this is the promiſe that he hath promiſed us, <hi>Even eternal life,</hi> 1 <hi>John</hi> 2.25. <hi>S. Paul</hi> ſaith the ſame, 2 <hi>Tim.</hi> 4.18 <hi>And the Lord will preſerve me unto his heavenly kingdom, not unto any earthly kingdom.</hi>
+            </p>
+            <p>See 2 <hi>Cor.</hi> 5.1. <hi>We know that if our earthly houſe of this Tabernacle were diſſolved, we have a building with God, an houſe not made with hands eternal in the heavens.</hi> Where then is this kingdom of Chriſt upon earth, which the <hi>Millenaries</hi> ſo much contend for.</p>
+            <p>
+               <hi>Fuerunt olim e Chiliaſtarum opinione magni in Eccleſia veri,</hi>
+               <pb n="18" facs="tcp:60132:12"/>There have been formerly very learned men in the Church of their judgement; but this Hereſie hath been ſo fully con<g ref="char:EOLhyphen"/>futed, that there are very few now but the ignorant Rabble, and ſome turbulent ſpirits who are their Leaders, who will live quietly under no government, that hold any ſuch opi<g ref="char:EOLhyphen"/>nion.</p>
+            <p>It is not poſſible that ſuch a temporal Monarchy of Chriſt can be, that theſe men dream of, but it muſt overthrow the Scripture.</p>
+            <p>
+               <hi>For S. Paul exhorts that prayers be made for Kings,</hi> 1 <hi>Tim.</hi> 2. And <hi>S. Peter</hi> ſaith,, <hi>we muſt obey and honour them,</hi> 1 <hi>Pet.</hi> 2. And this is to be the Chriſtians Rule ſo long as this world en<g ref="char:EOLhyphen"/>d<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>eth. Now the <hi>Fifth Monarchy-men,</hi> under pretence of Chriſts temporal kingdome, pray for the deſtruction, and attempt the ruine of all Kings and Prince: That <hi>I</hi> rather think this to be a cloak for their Rebellion, then that they believe it to be true, becauſe they refuſe to ſay the Lords Prayer, whereof one Petition is, <hi>Thy kingdom come.</hi>
+            </p>
+            <p>
+               <hi>I</hi> am confident that this Doctrine of theirs is that Eating Canker or Gangrene S. <hi>Paul</hi> condemns in <hi>Hymeneus</hi> and <hi>Philetus,</hi> 2 <hi>Tim.</hi> 2. who concerning the Truth have erred, ſaying, <hi>that the Reſurrection is paſt already, and overthrow the faith of ſome.</hi> For theſe ſay that their fifth Monarchy is be<g ref="char:EOLhyphen"/>gun already, which is as they interpret it, after the firſt Re<g ref="char:EOLhyphen"/>ſurrection.</p>
+            <p>Secondly, Theſe are queſtionleſs the falſe Teachers <hi>S. Pe<g ref="char:EOLhyphen"/>ter</hi> ſpeaks of, 2 <hi>Pet.</hi> 2. <hi>But there were falſe Prophets alſo among the People, as there ſhall be falſe Teachers among you, who privily ſhall bring in damnable Hereſies, even denying the Lord that bought them, and ſhall bring upon themſelves ſwift deſtruction;</hi> ſwift de<g ref="char:EOLhyphen"/>ſtruction many of them have brought upon themſelves. They certainly deny the Lord that bought them, who is the King of Heaven and Earth, when they would have him to be an Earthly King; and at the 10 verſ. he comes home to them, <hi>but cheifly they who deſpſie Government; preſump<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>us are they, ſelf-willed; they are not afraid to ſpeak evil of dignities.</hi> S. <hi>Jude</hi> points at them ver. 8. <hi>Theſe filthy dreamers defile the fleſh, deſpite
+<pb n="19" facs="tcp:60132:12"/>Dominions, and ſpeak evil of Dignities.</hi>
+            </p>
+            <p>But <hi>I</hi> have done with them, and come briefly to examine the Petition of <hi>S. Peter</hi> more nearly, which <hi>S. Mark</hi> and <hi>St. Luke</hi> leave out, as though there were no need for them to Petition him, <hi>who had forſaken all to follow him.</hi> But <hi>S. Matthew</hi> ſets it down ſo that S. <hi>Peter</hi> continues his requeſt in the Plu<g ref="char:EOLhyphen"/>rall Number, as the ground of it was firſt layd. He askes no more for himſelf, then for the reſt; He doth not firſt draw up a Generall liſt of them all, and then leave them out in the Reward; it is not, What ſhall I have? but <hi>What ſhall we have therefore?</hi>
+            </p>
+            <p>Secondly the Petition, though it ſound harſh at the firſt hearing, yet it is very modeſt and humble; For he doth not come to Indent with our Saviour before hand, What ſhall we have, and we will forſake all and follow thee? if we may have the greateſt commands and places about thee. No, but behold we have done that long ſince, <hi>We have forſaken all and followed thee.</hi>
+            </p>
+            <p>Thirdly, he doth not preſcribe as the ſons of <hi>Zebedee</hi> did, <hi>Mat.</hi> 20. <hi>Grant that we may ſit, one on thy right hand, and the other on thy left in thy Kingdome.</hi> But he commits that wholly to his Arbitrement.</p>
+            <p>Fourthly, He ſaith not? What ſhall we have preſently? But in the future Tencee <hi>What ſhall we have therefore?</hi>
+            </p>
+            <p n="1">1 Alſo our bleſſed Saviour in his moſt gracious Anſwer to his Petition, doth not finde fault either with the Form or the matter of it, becauſe it was ſo homely dreſſed.</p>
+            <p n="2">2 Nor doth he charge, them with an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or will worſhip, as perhaps ſome of his followers would have done, who followed him onely for their own profit, ſaying, <hi>Who required this at your hands?</hi> who bade you forſake all and follow him? You might have ſtaid at home and kept what you had.</p>
+            <p n="3">3. Nor doth he queſtion them what they had forſaken for him, as he might have done; a few Nets and Angles and Fiſh<g ref="char:EOLhyphen"/>ing Boats; or how far they had followed him in all matters to expect great Rewards for, As if onely thoſe who had forſa<g ref="char:EOLhyphen"/>ken
+<pb n="20" facs="tcp:60132:13"/>great poſſeſſions, as the young man had, muſt look to be Conſidered. No the widows mite is as well accepted with Chriſt, as the greateſt, Treaſure of the Rich; a poor mans Life and Eſtate and Family, are as dear to him as the Rich mans are.</p>
+            <p n="4">4 Nor doth he ſay, You did it in hopes of a Reward, For God always holds out a Reward to encourage us in our duty, <hi>even eternall life:</hi> So Chriſt told the young man, if he would forſake all and follow him, he ſhould have Treaſure in heaven; as the young man called him, Chriſt is a good Ma<g ref="char:EOLhyphen"/>ſter indeed; for no man ever followed him in vain.</p>
+            <p n="5">5 Nor doth he ſay, as he might and did ſay, <hi>Luke</hi> 17. You have done onely what was your Duty to do.</p>
+            <p n="6">6 Nor doth he put them to find out ſomething as the man<g ref="char:EOLhyphen"/>ner of men is, where ſome may ſeek long enough and be never the neer.</p>
+            <p n="7">7 Nor doth he turn them over to others to take care for them, as <hi>Alexander</hi> would have done one of his ſouldiers, untill the ſouldier told him that he had not ſerved him by Proxy but in his own perſon.</p>
+            <p n="8">8 Nor doth he object the Inſufficency of their performan<g ref="char:EOLhyphen"/>ces, but accepting the will for the deed, He returns him a moſt Gracious, ſpeedy, and fully ſatisfactory Anſwer for them all, verſ. 28. <hi>
+                  <g ref="char:V">Ʋ</g>erily</hi> I <hi>ſay unto you, that ye which have fol<g ref="char:EOLhyphen"/>lowed me in the Regeneration, when the ſon of man ſhall ſit on the Throne of his Glory, ye alſo ſhall ſit upon twelve Thrones Judgeing the twelve tribes of Iſrael.</hi>
+            </p>
+            <p>
+               <hi>And every one that hath forſaken Houſes, or Brethren, or Siſters, or Father, or Mother, or Wife, or Children, or Londs for my name fake, ſhall receive an bundred fold, and ſhall inherit everlaſting life.</hi>
+            </p>
+            <p>
+               <hi>I</hi> conclude with my Text,</p>
+            <p>
+               <hi>Then anſwered Peter and ſaid unto him, Behold we have forſaken all and followed thee, What ſhall we have therefore?</hi>
+            </p>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:60132:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
